@@ -5,13 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Default/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
-    path: Assets/Env/Scenes/SceneVR.unity
-    guid: 70eea2e984757a4459befc067e683a5a
+    path: Assets/Env/CovorkingVR.unity
+    guid: 1d0621543a21f0f4a8ecaa90c4ef06ec
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5e2804caf3b1e1043ad5c40c743fbc51,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5e76748b33128ed4a89219a632670395,
-      type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 39fd238b3f9e11542b8ae57481610d60,
-      type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a75268dedb2ec0d4b8744facf6fb167c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f9326025e25bd0444a0cb192de77b14b, type: 2}
